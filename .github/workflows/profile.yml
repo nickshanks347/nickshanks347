@@ -24,6 +24,6 @@ jobs:
           # Options
           user: nickshanks347
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Europe/London
           plugin_lines: yes
