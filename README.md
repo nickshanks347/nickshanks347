@@ -4,4 +4,4 @@ I'm Nick.
 </p>
 <p align='center'>For enquiries, reach out to me at <a href="mailto:nick@tfsi.dev">nick@tfsi.dev</a>.</p>
 
-<p align='center'>![Metrics](/github-metrics.svg)</p>
+<center> ![Metrics](/github-metrics.svg) </center>
